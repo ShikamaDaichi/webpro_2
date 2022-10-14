@@ -4,7 +4,11 @@ h1 {
 }
 
 h2 {
-    font-size: 16px;
+    font-size: 24px;
+    color:aqua
+}
+
+li {
     color:white
 }
 
